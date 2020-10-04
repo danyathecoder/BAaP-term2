@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/bitsfield.dir/main.c.o  -o bitsfield 

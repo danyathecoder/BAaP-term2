@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/reverse_polish_notation.dir/main.c.o CMakeFiles/reverse_polish_notation.dir/stack.c.o  -o reverse_polish_notation 

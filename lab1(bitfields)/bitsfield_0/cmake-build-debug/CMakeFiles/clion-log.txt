@@ -1,0 +1,5 @@
+/snap/clion/103/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/danilapoddubny/Programming/c&c++/BA&P_term2/lab1(bitfields)/bitsfield_0
+CMake Error: CMake was unable to find a build program corresponding to "Unix Makefiles".  CMAKE_MAKE_PROGRAM is not set.  You probably need to select a different build tool.
+CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
+See also "/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab1(bitfields)/bitsfield_0/cmake-build-debug/CMakeFiles/CMakeOutput.log".

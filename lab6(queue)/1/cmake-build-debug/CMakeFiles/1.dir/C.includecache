@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab6(queue)/1/main.c
+stdio.h
+-
+queue.h
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab6(queue)/1/queue.h
+stdlib.h
+-
+
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab6(queue)/1/queue.h
+

@@ -1,0 +1,3 @@
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab5(stack)/reverse polish notation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab5(stack)/reverse polish notation/cmake-build-debug/CMakeFiles/reverse_polish_notation.dir
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab5(stack)/reverse polish notation/cmake-build-debug/CMakeFiles/edit_cache.dir

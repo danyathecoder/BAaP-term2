@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/template.dir/main.c.o CMakeFiles/template.dir/queue.c.o  -o template 

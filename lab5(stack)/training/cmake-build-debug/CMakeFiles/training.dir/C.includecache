@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab5(stack)/training/main.c
+stdio.h
+-
+stdlib.h
+-
+stack.h
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab5(stack)/training/stack.h
+
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab5(stack)/training/stack.c
+stdio.h
+-
+stdlib.h
+-
+stack.h
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab5(stack)/training/stack.h
+
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab5(stack)/training/stack.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/training_dynamic_arrays_.dir/main.c.o  -o training_dynamic_arrays_ 

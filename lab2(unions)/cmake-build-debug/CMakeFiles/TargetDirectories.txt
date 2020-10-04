@@ -1,0 +1,3 @@
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab2(unions)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab2(unions)/cmake-build-debug/CMakeFiles/lab2_unions_.dir
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab2(unions)/cmake-build-debug/CMakeFiles/edit_cache.dir

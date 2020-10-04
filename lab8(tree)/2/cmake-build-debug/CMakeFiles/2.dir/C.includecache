@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab8(tree)/2/main.c
+stdio.h
+-
+tree.h
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab8(tree)/2/tree.h
+
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab8(tree)/2/tree.h
+

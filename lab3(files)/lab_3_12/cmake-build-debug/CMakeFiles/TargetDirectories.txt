@@ -1,0 +1,3 @@
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab3(files)/lab_3_12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab3(files)/lab_3_12/cmake-build-debug/CMakeFiles/lab_3_12.dir
+/home/danilapoddubny/Programming/c&c++/BA&P_term2/lab3(files)/lab_3_12/cmake-build-debug/CMakeFiles/edit_cache.dir

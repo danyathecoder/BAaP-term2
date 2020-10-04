@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lab2_unions_.dir/main.c.o CMakeFiles/lab2_unions_.dir/func.c.o CMakeFiles/lab2_unions_.dir/struct_init.c.o  -o lab2_unions_ 

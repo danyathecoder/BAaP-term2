@@ -1,0 +1,111 @@
+#include <stdio.h>
+#include <conio.h>
+Структура «Человек»: фамилия, имя, отчество; домашний адрес; номер телефона; возраст.
+Создать массив структур. Функции ввода, вывода, поиска, редактирования.
+
+struct Person {
+char * fio;
+char * adrr;
+int tel_num, age;
+};
+Person * input(Person mas, int n);
+void output(Person mas, int n);
+void output_i(Person mas, int i);
+void search_fio(Person mas, int n, char *str);
+
+int main()
+{
+Person *mas;
+int n;
+scanf("%d", &n);
+mas=(Person *)calloc(n,sizeof(Person));
+
+for (int i=0; i<n;i++)
+{
+	mas[i]->fio=(char *)calloc (1,1);
+	mas[i]->adrr=(char *)calloc (1,1);
+
+}
+
+mas=input (mas,n);
+output(mas,n);
+search(mas,n,"Petrov Petr Petrovich");
+int a;
+scanf ("%d",&a);
+char *str=(char *)calloc(1,1);
+gets (str);
+
+mas=edit_fio(mas, a, str);
+
+
+
+
+
+
+return 0;
+}
+
+Person * input(Person mas, int n)
+{
+for (int i=0; i<n; i++)
+{	
+	rewind(stdin);
+	gets(mas[i]->fio);
+	rewind(stdin);
+	gets(mas[i]->adrr);
+	scanf("%d", &mas[i].tel_num);
+	scanf("%d", &mas[i].age);
+}
+
+return mas;
+
+}
+
+void output(Person mas, int n)
+{
+for (int i=0; i<n; i++)
+{	
+	printf ("%d",i);
+	puts(mas[i]->fio);
+	
+	puts(mas[i]->adrr);
+	printf("%d\n", mas[i].tel_num);
+	printf("%d\n", mas[i].age);
+}
+
+
+
+}
+
+void output_i(Person mas, int i)
+{
+	
+	puts(mas[i]->fio);
+	puts(mas[i]->adrr);
+	printf("%d\n", mas[i].tel_num);
+	printf("%d\n", mas[i].age);
+
+}
+
+void search_fio(Person mas, int n, char *str)
+{
+for (int i=0;i<n; i++)
+{
+	if (strcmp (mas[i]->fio, str)==0)
+		output_i(mas,i);
+}
+
+}
+
+Person * edit_fio(Person mas, int i, char *str)
+{
+	strcpy(mas[i]->fio,str);
+return mas;
+
+}
+
+
+
+
+
+
